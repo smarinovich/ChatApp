@@ -1,4 +1,4 @@
 # ChatApp
-Year 12 SDD Project
+A Simple Chatroom Application
 
-Project was a free-for-all with the one guideline of making sure the program read a file. I felt like making a chatroom, and integrating the file read as storing the username.
+Supports any computer running python, but also has exectuable files for Windows 10, and Intel Mac. Uses github as a routing method (by checking a private repo, it can identify where ip to send to).
